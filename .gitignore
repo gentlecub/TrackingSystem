@@ -126,3 +126,6 @@ appsettings.Local.json
 
 # Secrets
 secrets.json
+
+# Study notes
+STUDY.md
